@@ -28,4 +28,5 @@ def get_article_links(issues_url):
     return articles
 
 # Helper function to save the text of the articles in a text file
-def save_article
+def save_article(article_url, folder='articles'):
+    
