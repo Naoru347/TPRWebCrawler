@@ -18,7 +18,7 @@ Installation
 
 bash
 
-    git clone [repository URL]
+    gh repo clone Naoru347/TPRWebCrawler
 
     Install Required Libraries
 
