@@ -16,11 +16,11 @@ Installation
 
     Clone the Repository
 
-    bash
+bash
 
-git clone [repository URL]
+    git clone [repository URL]
 
-Install Required Libraries
+    Install Required Libraries
 
 bash
 
@@ -33,17 +33,17 @@ This script combines the functionality of both the TPRArticleSaver and TPRHTMLSa
 
 bash
 
-python TPRWebCrawler.py
+    python TPRWebCrawler.py
 
 Individual Script Usage
 
 To run the scripts individually:
 
-    TPRArticleSaver.py:
+TPRArticleSaver.py:
 
-    bash
+bash
 
-python TPRArticleSaver.py
+    python TPRArticleSaver.py
 
 TPRHTMLSaver.py:
 
@@ -67,12 +67,3 @@ If you encounter issues:
     Check your Python version.
     Confirm the scripts' access to the internet.
 
-Contributing
-
-Contributions to TPRWebCrawler are welcome. Please follow the standard fork-pull request workflow.
-License
-
-[Specify the license under which your project is released]
-Contact
-
-For support or queries, please [contact information or link to issue tracker].
