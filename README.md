@@ -20,7 +20,7 @@ bash
 
     gh repo clone Naoru347/TPRWebCrawler
 
-    Install Required Libraries
+Install Required Libraries
 
 bash
 
